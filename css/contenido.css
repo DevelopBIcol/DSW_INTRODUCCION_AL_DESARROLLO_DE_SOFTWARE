@@ -3,6 +3,9 @@
 	margin: auto;
 	overflow: hidden;
 }
+.*{
+	font-family: "angsana_newregular",normal !important;
+}
 
 .slider ul {
 	display: flex;
